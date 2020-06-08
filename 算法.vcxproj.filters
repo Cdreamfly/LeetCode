@@ -261,5 +261,11 @@
     <ClCompile Include="5429. 数组中的 k 个最强值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="557. 反转字符串中的单词 III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="485. 最大连续1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
