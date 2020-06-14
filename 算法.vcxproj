@@ -152,6 +152,8 @@
     <ClCompile Include="1342. 将数字变成 0 的操作次数.cpp" />
     <ClCompile Include="1365. 有多少小于当前数字的数字.cpp" />
     <ClCompile Include="1389. 按既定顺序创建目标数组.cpp" />
+    <ClCompile Include="1395. 统计作战单位数.cpp" />
+    <ClCompile Include="153. 寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp" />
     <ClCompile Include="206. 反转链表.cpp" />
     <ClCompile Include="209. 长度最小的子数组.cpp" />
@@ -171,13 +173,17 @@
     <ClCompile Include="5396. 连续字符.cpp" />
     <ClCompile Include="5408. 通过翻转子数组使两个数组相等.cpp" />
     <ClCompile Include="5412. 在既定时间做作业的学生人数.cpp" />
+    <ClCompile Include="5420. 商品折扣后的最终价格.cpp" />
     <ClCompile Include="5424. 数组中两元素的最大乘积.cpp" />
     <ClCompile Include="5425. 切割后面积最大的蛋糕.cpp" />
     <ClCompile Include="5428. 重新排列数组.cpp" />
     <ClCompile Include="5429. 数组中的 k 个最强值.cpp" />
+    <ClCompile Include="5436. 一维数组的动态和.cpp" />
+    <ClCompile Include="5437. 不同整数的最少数目.cpp" />
     <ClCompile Include="557. 反转字符串中的单词 III.cpp" />
     <ClCompile Include="560. 和为K的子数组.cpp" />
     <ClCompile Include="561. 数组拆分 I.cpp" />
+    <ClCompile Include="70. 爬楼梯.cpp" />
     <ClCompile Include="724. 寻找数组的中心索引.cpp" />
     <ClCompile Include="75. 颜色分类.cpp" />
     <ClCompile Include="771. 宝石与石头.cpp" />

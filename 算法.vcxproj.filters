@@ -267,5 +267,23 @@
     <ClCompile Include="485. 最大连续1的个数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="153. 寻找旋转排序数组中的最小值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70. 爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5420. 商品折扣后的最终价格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1395. 统计作战单位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5436. 一维数组的动态和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5437. 不同整数的最少数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
