@@ -285,5 +285,17 @@
     <ClCompile Include="5437. 不同整数的最少数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14. 最长公共前缀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="151. 翻转字符串里的单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1014. 最佳观光组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="535. TinyURL 的加密与解密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

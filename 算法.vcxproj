@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1014. 最佳观光组合.cpp" />
     <ClCompile Include="102. 二叉树的层序遍历.cpp" />
     <ClCompile Include="11. 盛最多水的容器.cpp" />
     <ClCompile Include="1108. IP 地址无效化.cpp" />
@@ -153,6 +154,8 @@
     <ClCompile Include="1365. 有多少小于当前数字的数字.cpp" />
     <ClCompile Include="1389. 按既定顺序创建目标数组.cpp" />
     <ClCompile Include="1395. 统计作战单位数.cpp" />
+    <ClCompile Include="14. 最长公共前缀.cpp" />
+    <ClCompile Include="151. 翻转字符串里的单词.cpp" />
     <ClCompile Include="153. 寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp" />
     <ClCompile Include="206. 反转链表.cpp" />
@@ -169,6 +172,7 @@
     <ClCompile Include="1. 两数之和.cpp" />
     <ClCompile Include="387. 字符串中的第一个唯一字符.cpp" />
     <ClCompile Include="485. 最大连续1的个数.cpp" />
+    <ClCompile Include="535. TinyURL 的加密与解密.cpp" />
     <ClCompile Include="5384. 拥有最多糖果的孩子.cpp" />
     <ClCompile Include="5396. 连续字符.cpp" />
     <ClCompile Include="5408. 通过翻转子数组使两个数组相等.cpp" />
