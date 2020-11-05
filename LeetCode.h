@@ -14,6 +14,7 @@
 #include<set>
 #include<unordered_set>
 #include<algorithm>
+#include<numeric>
 using namespace std;
 
 // TODO: 在此处引用程序需要的其他标头。
